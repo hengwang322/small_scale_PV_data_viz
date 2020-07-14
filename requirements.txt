@@ -1,0 +1,6 @@
+arrow
+geopandas
+numpy
+pandas
+pytopojson
+topojson
