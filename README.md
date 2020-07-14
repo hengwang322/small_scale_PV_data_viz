@@ -4,7 +4,7 @@ In this project, I made a 3D time-series choropleth map in Blender programmatica
 
 ![](./resource/data-viz.gif)
 
-Check out the final render video [here](https://youtu.be/7xwRgUXbkV8) and an interactive web version [here](hengwang322.github.io/viz.html).
+Check out the final render video [here](https://youtu.be/7xwRgUXbkV8) and an interactive web version [here](https://hengwang322.github.io/viz.html).
 
 Data is from [Clean Energy Regulator](http://www.cleanenergyregulator.gov.au/RET/Forms-and-resources/Postcode-data-for-small-scale-installations), and the original Shapefile for postal area boundaries in Australia (ASGS Ed 2016) is from [Australian Bureau of Statistics](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument). These files are provided in the `data` directory. 
 
